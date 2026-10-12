@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff001ff8e5467ac48ac0df34c804bce4, type: 3}
+  m_Name: AudioData
+  m_EditorClassIdentifier: 
+  menuMusicClips:
+  - {fileID: 8300000, guid: e0cc6593cb3ba7041ad12de194cce8a2, type: 3}
+  - {fileID: 8300000, guid: b201c844d925ec24c85630924791e769, type: 3}
+  gameplayMusicClips:
+  - {fileID: 8300000, guid: 3c96bc1b06ec1fc4db00c2b2b64e5f21, type: 3}
+  - {fileID: 8300000, guid: b2c188940c51aea4f889ab027c29d3a6, type: 3}
+  uiButtonClips:
+  - {fileID: 8300000, guid: 7112aea836e350544bf03be0439c6b65, type: 3}
+  uiHoverClips:
+  - {fileID: 8300000, guid: 3d1f08e17523b5d4197f81b0bcb82fb0, type: 3}
+  uiNotificationClips: []
+  defaultMusicVolume: 0.5
+  defaultSFXVolume: 0.5
